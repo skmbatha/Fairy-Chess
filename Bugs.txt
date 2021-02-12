@@ -1,0 +1,11 @@
+1. The game just change the player current;y playing during game play but I really havn't 
+figured out of what is causing the problem exactly.
+
+2. Apart from  only moving the pieces in the game,also add the GUI way in which
+you can also capture an enemy.(obviouly by just moving onto the block,check if its not an
+illegal capture,if legal capture,actually iomplement the logic).Add other features as well
+...I am talking about winning(checkmate),castling,and all the other important fundamental features.
+
+
+3. Increase the game size so that it fits the screen.Actually just take advantage of the screen size and 
+actuate every dimension based on the PC's internal OS obtained hardware constants.
